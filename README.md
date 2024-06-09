@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![developer working]([https://github.com/AlenaNiku/vino-map/blob/master/vino-giphy.gif](https://github.com/CFrazz25/CFrazz25/blob/main/developer-doing-website-development.png))
 <!--
 **CFrazz25/CFrazz25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
