@@ -9,7 +9,7 @@
 
 
 
-#### Check out my [website](https://www.frazzledazzle.dev/) if you're bored. 😜 Most of my work comes from private companies and private projects, but I'm pushing to add a few public projects. In the meantime, you can see and read about my previous work experience and projects on my website.
+#### Check out my [website](https://www.frazzledazzle.dev/) if you're bored. 😜 Most of my work comes from private companies and private projects, but I'm pushing to add a few public projects. In the meantime, you can see and read about my previous work experience and projects on my website. If you're looking to work together and want to see my work behind the scenes, I'm happy to share it with you. 😄
 
 
 <p align="center"> $\color{Apricot}{Some\ of\ my\ favorite\ tools\ to\ use\ right\ now\ include\:}$ </p>  
